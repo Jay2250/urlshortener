@@ -1,2 +1,2 @@
 # urlshortener
-URL Shortener using pyshortener Module in python.
+URL Shortener using pyshortener & tkinter Module in python.
