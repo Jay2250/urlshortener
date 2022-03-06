@@ -1,6 +1,9 @@
 from tkinter import *
 window = Tk()
 
+from pyshorteners import *
+
+url = Shortener()
 
 def short_url():
     long_url = url_entry.get()
